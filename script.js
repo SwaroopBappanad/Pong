@@ -5,7 +5,7 @@ function setup(){
 
 
 let y;
-let y2
+let y2;
 let paddleUp;
 let motion = "no";
 let wallcollided = false;
